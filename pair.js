@@ -44,8 +44,8 @@ const config = {
 };
 
 const octokit = new Octokit({ auth: 'Iv23lizC731vPIaxpvbn' });// ඔයා 𝚐𝚒𝚝𝚑𝚞𝚋 𝚝𝚘𝚔𝚎𝚗 එකක් අරන් ඒක දාන්න
-const owner = 'your username';//𝚐𝚒𝚝𝚑𝚞𝚋 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 එකේ 𝚞𝚜𝚎𝚗𝚊𝚖𝚎 දාන්න 
-const repo = 'repo name';//𝚐𝚒𝚝𝚑𝚞𝚋 𝚛𝚎𝚙𝚘 එකක් හදලා ඒකේ නම දාන්න
+const owner = 'isankamalith74-dotcom';//𝚐𝚒𝚝𝚑𝚞𝚋 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 එකේ 𝚞𝚜𝚎𝚗𝚊𝚖𝚎 දාන්න 
+const repo = 'STUDY-';//𝚐𝚒𝚝𝚑𝚞𝚋 𝚛𝚎𝚙𝚘 එකක් හදලා ඒකේ නම දාන්න
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
